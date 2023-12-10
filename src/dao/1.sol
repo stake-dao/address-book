@@ -11,4 +11,8 @@ library DAO {
 
     address public constant LOCKER_GAUGE_CONTROLLER = 0x75f8f7fa4b6DA6De9F4fE972c811b778cefce882;
     address public constant STRATEGY_GAUGE_CONTROLLER = 0x3F3F0776D411eb97Cfa4E3eb25F33c01ca4e7Ca8;
+
+    /// veSDT on-chain voting addreses.
+    address public constant AGENT_APP = 0x30f9fFF0f55d21D666E28E650d0Eb989cA44e339;
+    address public constant VOTING_APP = 0x82e631fe565E06ea51a00fAbcd79645272f654eB;
 }

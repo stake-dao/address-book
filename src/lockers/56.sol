@@ -15,5 +15,4 @@ library MAV {
     address public constant SDTOKEN = 0x50687515e93C43964733282F9DB8683F80BB02f9;
     address public constant LOCKER = 0xC6973841dC130597dF3Cb8bE2F57440d856FD7C4;
     address public constant DEPOSITOR = 0xC5CCc20f6A4CD65fda979A2E292DBCF2C450C067;
-    address public constant GAUGE = 0x5B75C60D45BfB053f91B5a9eAe22519DFaa37BB6;
 }
