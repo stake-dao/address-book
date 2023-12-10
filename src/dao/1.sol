@@ -1,0 +1,14 @@
+// SPDX-License-Identifier: AGPL-3.0-only
+pragma solidity >=0.6.0;
+
+library DAO {
+    address public constant SDT = 0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F;
+    address public constant VESDT = 0x0C30476f66034E11782938DF8e4384970B6c9e8a;
+    address public constant FEE_DISTRIBUTOR = 0x29f3dd38dB24d3935CF1bf841e6b2B461A3E5D92;
+
+    address public constant LOCKER_SDT_DISTRIBUTOR = 0x8Dc551B4f5203b51b5366578F42060666D42AB5E;
+    address public constant STRATEGY_SDT_DISTRIBUTOR = 0x9C99dffC1De1AfF7E7C1F36fCdD49063A281e18C;
+
+    address public constant LOCKER_GAUGE_CONTROLLER = 0x75f8f7fa4b6DA6De9F4fE972c811b778cefce882;
+    address public constant STRATEGY_GAUGE_CONTROLLER = 0x3F3F0776D411eb97Cfa4E3eb25F33c01ca4e7Ca8;
+}
