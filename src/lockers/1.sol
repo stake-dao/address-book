@@ -72,3 +72,21 @@ library YFI {
     address public constant GAUGE = 0x5AdF559f5D24aaCbE4FA3A3a4f44Fdc7431E6b52;
     address public constant ACCUMULATOR = 0x3046E983B0c5a5359D3b0756ADa0dB20026D1cFc;
 }
+
+library PENDLE {
+    address public constant TOKEN = 0x808507121B80c02388fAd14726482e061B8da827;
+    address public constant SDTOKEN = 0x5Ea630e00D6eE438d3deA1556A110359ACdc10A9;
+    address public constant LOCKER = 0xD8fa8dC5aDeC503AcC5e026a98F32Ca5C1Fa289A;
+    address public constant DEPOSITOR = 0xf7F64f63ec693C6a3A79fCe4b222Bca2595cAcEf;
+    address public constant GAUGE = 0x50DC9aE51f78C593d4138263da7088A973b8184E;
+    address public constant ACCUMULATOR = 0x3046E983B0c5a5359D3b0756ADa0dB20026D1cFc;
+}
+
+library MAV {
+    address public constant TOKEN = 0x7448c7456a97769F6cD04F1E83A4a23cCdC46aBD;
+    address public constant SDTOKEN = 0x50687515e93C43964733282F9DB8683F80BB02f9;
+    address public constant LOCKER = 0xdBD6170396ECE3DCd51195950A2dF7F7635F9e38;
+    address public constant DEPOSITOR = 0xC5CCc20f6A4CD65fda979A2E292DBCF2C450C067;
+    address public constant GAUGE = 0x5B75C60D45BfB053f91B5a9eAe22519DFaa37BB6;
+}
+ 
