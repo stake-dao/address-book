@@ -89,4 +89,13 @@ library MAV {
     address public constant DEPOSITOR = 0xC5CCc20f6A4CD65fda979A2E292DBCF2C450C067;
     address public constant GAUGE = 0x5B75C60D45BfB053f91B5a9eAe22519DFaa37BB6;
 }
+
+library FXN {
+    address public constant TOKEN = 0x365AccFCa291e7D3914637ABf1F7635dB165Bb09;
+    address public constant SDTOKEN = 0xe19d1c837B8A1C83A56cD9165b2c0256D39653aD;
+    address public constant LOCKER = 0x75736518075a01034fa72D675D36a47e9B06B2Fb;
+    address public constant DEPOSITOR = 0x7995192bE61EA0B28ce14183DDA51eDF78F1c7AB;
+    address public constant GAUGE = 0xbcfE5c47129253C6B8a9A00565B3358b488D42E0;
+}
+
  
