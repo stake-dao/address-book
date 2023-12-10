@@ -2,10 +2,12 @@
 pragma solidity >=0.6.0;
 
 library DAO {
+    /// Token addresses and revenue sharing.
     address public constant SDT = 0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F;
     address public constant VESDT = 0x0C30476f66034E11782938DF8e4384970B6c9e8a;
     address public constant FEE_DISTRIBUTOR = 0x29f3dd38dB24d3935CF1bf841e6b2B461A3E5D92;
 
+    /// SDT Distribution.
     address public constant LOCKER_SDT_DISTRIBUTOR = 0x8Dc551B4f5203b51b5366578F42060666D42AB5E;
     address public constant STRATEGY_SDT_DISTRIBUTOR = 0x9C99dffC1De1AfF7E7C1F36fCdD49063A281e18C;
 
