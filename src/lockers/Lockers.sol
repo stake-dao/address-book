@@ -28,7 +28,7 @@ library SPECTRA {
     address public constant ACCUMULATOR = 0xc50f67DB3a63641a57d2d3DE9FdA6767E999Efe5;
 }
 
-library BALANCER {
+library BAL {
     address public constant TOKEN = 0x5c6Ee304399DBdB9C8Ef030aB642B10820DB8F56;
     address public constant SDTOKEN = 0xF24d8651578a55b0C119B9910759a351A3458895;
     address public constant LOCKER = 0xea79d1A83Da6DB43a85942767C389fE0ACf336A5;
@@ -37,3 +37,38 @@ library BALANCER {
     address public constant ACCUMULATOR = 0x99e8cBa4e91aDeA2C9321344e33FCCCBfBA9b0C4;
 }
 
+library BPT {
+    address public constant TOKEN = 0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da;
+    address public constant SDTOKEN = 0x825Ba129b3EA1ddc265708fcbB9dd660fdD2ef73;
+    address public constant LOCKER = 0x0a4dF7809F83e130D8ffa297f03b75318E37B461;
+    address public constant DEPOSITOR = 0x219f7496fbD30e1F21A20613F9372d608A279993;
+    address public constant GAUGE = 0xa291faEEf794df6216f196a63F514B5B22244865;
+    address public constant ACCUMULATOR = 0xfAC788261DA6E2aFfCD0e9AB340395378F8CBfBc;
+}
+
+library FXS {
+    address public constant TOKEN = 0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da;
+    address public constant SDTOKEN = 0x402F878BDd1f5C66FdAF0fabaBcF74741B68ac36;
+    address public constant LOCKER = 0xCd3a267DE09196C48bbB1d9e842D7D7645cE448f;
+    address public constant DEPOSITOR = 0xFaF3740167B866b571465B063c6B3A71Ba9b6285;
+    address public constant GAUGE = 0xF3C6e8fbB946260e8c2a55d48a5e01C82fD63106;
+    address public constant ACCUMULATOR = 0xF980B8A714Ce0cCB049f2890494b068CeC715c3f;
+}
+
+library FPIS {
+    address public constant TOKEN = 0xc2544A32872A91F4A553b404C6950e89De901fdb;
+    address public constant SDTOKEN = 0x334cB66050049c1E392007B018321c44A1dbFaC4;
+    address public constant LOCKER = 0x1ce5181124c33Abc281BF0F07eF4fB8573556aA5;
+    address public constant DEPOSITOR = 0x56D27f6BA42Ec4C4E37dae0561e8E872ABb196Ad;
+    address public constant GAUGE = 0xE58101D3848E12dAD6d7B5981dC11411bb267D2f;
+    address public constant ACCUMULATOR = 0x0CA369A70AD74E52604abC63792ABbE088A9F460;
+}
+
+library YFI {
+    address public constant TOKEN = 0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e;
+    address public constant SDTOKEN = 0x97983236bE88107Cc8998733Ef73D8d969c52E37;
+    address public constant LOCKER = 0xF750162fD81F9a436d74d737EF6eE8FC08e98220;
+    address public constant DEPOSITOR = 0x941E716833734C7CaFafC38F6bb8FEc1858201E0;
+    address public constant GAUGE = 0x5AdF559f5D24aaCbE4FA3A3a4f44Fdc7431E6b52;
+    address public constant ACCUMULATOR = 0x3046E983B0c5a5359D3b0756ADa0dB20026D1cFc;
+}
