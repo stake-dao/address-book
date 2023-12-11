@@ -2,7 +2,7 @@
 
 # <h1 align="center">Address Book</h1>
 
-A Utility library for integrating Stake DAO Addresses.
+This repository serves as a comprehensive directory of all Stake DAO addresses and protocols upon which Stake DAO is built.
 
 ## Installation
 
