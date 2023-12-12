@@ -68,7 +68,7 @@ library YFI {
     address public constant TOKEN = 0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e;
     address public constant SDTOKEN = 0x97983236bE88107Cc8998733Ef73D8d969c52E37;
     address public constant LOCKER = 0xF750162fD81F9a436d74d737EF6eE8FC08e98220;
-    address public constant DEPOSITOR = 0x941E716833734C7CaFafC38F6bb8FEc1858201E0;
+    address public constant DEPOSITOR = 0xe56d9776fbB287A2f8Ba3f11375F51A24D7e25DB;
     address public constant GAUGE = 0x5AdF559f5D24aaCbE4FA3A3a4f44Fdc7431E6b52;
     address public constant ACCUMULATOR = 0x3046E983B0c5a5359D3b0756ADa0dB20026D1cFc;
 }
@@ -86,7 +86,7 @@ library MAV {
     address public constant TOKEN = 0x7448c7456a97769F6cD04F1E83A4a23cCdC46aBD;
     address public constant SDTOKEN = 0x50687515e93C43964733282F9DB8683F80BB02f9;
     address public constant LOCKER = 0xdBD6170396ECE3DCd51195950A2dF7F7635F9e38;
-    address public constant DEPOSITOR = 0xC5CCc20f6A4CD65fda979A2E292DBCF2C450C067;
+    address public constant DEPOSITOR = 0x177Eaa1A7c26da6Dc84c0cC3F9AE6Fd0A470E7Ec;
     address public constant GAUGE = 0x5B75C60D45BfB053f91B5a9eAe22519DFaa37BB6;
 }
 
