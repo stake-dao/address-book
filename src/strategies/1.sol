@@ -3,18 +3,22 @@ pragma solidity >=0.6.0;
 
 library CRV {
     address public constant STRATEGY = 0x20F1d4Fed24073a9b9d388AfA2735Ac91f079ED6;
+    address public constant VE_SDT_FEE_PROXY = 0x9592Ec0605CE232A4ce873C650d2Aa01c79cb69E;
 }
 
 library ANGLE {
     address public constant STRATEGY = 0x22635427C72e8b0028FeAE1B5e1957508d9D7CAF;
+    address public constant VE_SDT_FEE_PROXY = 0x059F78859a152e42dd590a49bE44F2ebE9FcD1aC;
 }
 
 library BAL {
     address public constant STRATEGY = 0x873b031Ea6E4236E44d933Aae5a66AF6d4DA419d;
+    address public constant VE_SDT_FEE_PROXY = 0xF94492a9efEE2A6A82256e5794C988D3A711539d;
 }
 
 library FXS {
     address public constant STRATEGY = 0xf285Dec3217E779353350443fC276c07D05917c3;
+    address public constant VE_SDT_FEE_PROXY = 0x86Ebcd1bC876782670FE0B9ea23d8504569B9ffc;
 }
 
 library YFI {
@@ -23,4 +27,5 @@ library YFI {
 
 library PENDLE {
     address public constant STRATEGY = 0xA7641acBc1E85A7eD70ea7bCFFB91afb12AD0c54;
+    address public constant VE_SDT_FEE_PROXY = 0x12992595328E52267c95e45B1a97014D6Ddf8683;
 }
