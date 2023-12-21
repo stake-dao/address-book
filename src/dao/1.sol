@@ -5,6 +5,7 @@ library DAO {
     /// Token addresses and revenue sharing.
     address public constant SDT = 0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F;
     address public constant VESDT = 0x0C30476f66034E11782938DF8e4384970B6c9e8a;
+    address public constant VEBOOST = 0x47B3262C96BB55A8D2E4F8E3Fed29D2eAB6dB6e9;
     address public constant FEE_DISTRIBUTOR = 0x29f3dd38dB24d3935CF1bf841e6b2B461A3E5D92;
 
     /// SDT Distribution.
