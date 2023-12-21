@@ -8,6 +8,7 @@ library CRV {
     address public constant DEPOSITOR = 0xc1e3Ca8A3921719bE0aE3690A0e036feB4f69191;
     address public constant GAUGE = 0x7f50786A0b15723D741727882ee99a0BF34e3466;
     address public constant ACCUMULATOR = 0xa44bFD194Fd7185ebecEcE4F7fA87a47DaA01c6A;
+    address public constant VOTER = 0x20b22019406Cf990F0569a6161cf30B8e6651dDa;
 }
 
 library ANGLE {
@@ -17,6 +18,7 @@ library ANGLE {
     address public constant DEPOSITOR = 0x8A97e8B3389D431182aC67c0DF7D46FF8DCE7121;
     address public constant GAUGE = 0xE55843a90672f7d8218285e51EE8fF8E233F35d5;
     address public constant ACCUMULATOR = 0x8cc02F4f383A11b989708437DbA6BB0628d7eE78;
+    address public constant VOTER = 0xDde0F1755DED401a012617f706c66a59c6917EFD;
 }
 
 library SPECTRA {
@@ -35,6 +37,7 @@ library BAL {
     address public constant DEPOSITOR = 0x3e0d44542972859de3CAdaF856B1a4FD351B4D2E;
     address public constant GAUGE = 0x3E8C72655e48591d93e6dfdA16823dB0fF23d859;
     address public constant ACCUMULATOR = 0x99e8cBa4e91aDeA2C9321344e33FCCCBfBA9b0C4;
+    address public constant VOTER = 0xff09A9b50A4E9b9AB95D2DCb552E8469f9c891Ff;
 }
 
 library BPT {
@@ -53,6 +56,7 @@ library FXS {
     address public constant DEPOSITOR = 0xFaF3740167B866b571465B063c6B3A71Ba9b6285;
     address public constant GAUGE = 0xF3C6e8fbB946260e8c2a55d48a5e01C82fD63106;
     address public constant ACCUMULATOR = 0xF980B8A714Ce0cCB049f2890494b068CeC715c3f;
+    address public constant VOTER = 0xaE26E4478FF6BbC555EAE020AFFea3B505fC4D05;
 }
 
 library FPIS {
@@ -97,5 +101,3 @@ library FXN {
     address public constant DEPOSITOR = 0x7995192bE61EA0B28ce14183DDA51eDF78F1c7AB;
     address public constant GAUGE = 0xbcfE5c47129253C6B8a9A00565B3358b488D42E0;
 }
-
- 
