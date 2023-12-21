@@ -18,4 +18,8 @@ library DAO {
     /// veSDT on-chain voting addreses.
     address public constant AGENT_APP = 0x30f9fFF0f55d21D666E28E650d0Eb989cA44e339;
     address public constant VOTING_APP = 0x82e631fe565E06ea51a00fAbcd79645272f654eB;
+
+    /// Common addresses.
+    address public constant MAIN_DEPLOYER = 0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62;
+    address public constant GOVERNANCE = 0xF930EBBd05eF8b25B1797b9b2109DDC9B0d43063;
 }
