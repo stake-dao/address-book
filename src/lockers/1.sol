@@ -9,6 +9,10 @@ library CRV {
     address public constant GAUGE = 0x7f50786A0b15723D741727882ee99a0BF34e3466;
     address public constant ACCUMULATOR = 0xa44bFD194Fd7185ebecEcE4F7fA87a47DaA01c6A;
     address public constant VOTER = 0x20b22019406Cf990F0569a6161cf30B8e6651dDa;
+
+    address public constant STRATEGY = 0x20F1d4Fed24073a9b9d388AfA2735Ac91f079ED6;
+    address public constant VE_SDT_FEE_PROXY = 0x9592Ec0605CE232A4ce873C650d2Aa01c79cb69E;
+    address public constant FACTORY = 0xe7D4908e413f4769069b0837c84A5cbC7E4CC124;
 }
 
 library ANGLE {
@@ -19,6 +23,10 @@ library ANGLE {
     address public constant GAUGE = 0xE55843a90672f7d8218285e51EE8fF8E233F35d5;
     address public constant ACCUMULATOR = 0x8cc02F4f383A11b989708437DbA6BB0628d7eE78;
     address public constant VOTER = 0xDde0F1755DED401a012617f706c66a59c6917EFD;
+
+    address public constant STRATEGY = 0x22635427C72e8b0028FeAE1B5e1957508d9D7CAF;
+    address public constant VE_SDT_FEE_PROXY = 0x059F78859a152e42dd590a49bE44F2ebE9FcD1aC;
+    address public constant FACTORY = 0x66f3d3210F84fe8cC2c77A1f001a395b2Ae0B801;
 }
 
 library SPECTRA {
@@ -37,7 +45,12 @@ library BAL {
     address public constant DEPOSITOR = 0x3e0d44542972859de3CAdaF856B1a4FD351B4D2E;
     address public constant GAUGE = 0x3E8C72655e48591d93e6dfdA16823dB0fF23d859;
     address public constant ACCUMULATOR = 0x99e8cBa4e91aDeA2C9321344e33FCCCBfBA9b0C4;
+
     address public constant VOTER = 0xff09A9b50A4E9b9AB95D2DCb552E8469f9c891Ff;
+
+    address public constant STRATEGY = 0x873b031Ea6E4236E44d933Aae5a66AF6d4DA419d;
+    address public constant VE_SDT_FEE_PROXY = 0xF94492a9efEE2A6A82256e5794C988D3A711539d;
+    address public constant FACTORY = 0x6e37f0f744377936205610591Eb8787d7bE7946f;
 }
 
 library BPT {
@@ -57,6 +70,9 @@ library FXS {
     address public constant GAUGE = 0xF3C6e8fbB946260e8c2a55d48a5e01C82fD63106;
     address public constant ACCUMULATOR = 0xF980B8A714Ce0cCB049f2890494b068CeC715c3f;
     address public constant VOTER = 0xaE26E4478FF6BbC555EAE020AFFea3B505fC4D05;
+
+    address public constant STRATEGY = 0xf285Dec3217E779353350443fC276c07D05917c3;
+    address public constant VE_SDT_FEE_PROXY = 0x86Ebcd1bC876782670FE0B9ea23d8504569B9ffc;
 }
 
 library FPIS {
@@ -75,6 +91,9 @@ library YFI {
     address public constant DEPOSITOR = 0xe56d9776fbB287A2f8Ba3f11375F51A24D7e25DB;
     address public constant GAUGE = 0x5AdF559f5D24aaCbE4FA3A3a4f44Fdc7431E6b52;
     address public constant ACCUMULATOR = 0x3046E983B0c5a5359D3b0756ADa0dB20026D1cFc;
+
+    address public constant STRATEGY = 0x1be150a35bb8233d092747eBFDc75FB357c35168;
+    address public constant FACTORY = 0x1EFb2C804166be34a6956159646CAE9D0063b7fF;
 }
 
 library PENDLE {
@@ -84,6 +103,10 @@ library PENDLE {
     address public constant DEPOSITOR = 0xf7F64f63ec693C6a3A79fCe4b222Bca2595cAcEf;
     address public constant GAUGE = 0x50DC9aE51f78C593d4138263da7088A973b8184E;
     address public constant ACCUMULATOR = 0x3046E983B0c5a5359D3b0756ADa0dB20026D1cFc;
+
+    address public constant STRATEGY = 0xA7641acBc1E85A7eD70ea7bCFFB91afb12AD0c54;
+    address public constant VE_SDT_FEE_PROXY = 0x12992595328E52267c95e45B1a97014D6Ddf8683;
+    address public constant FACTORY = 0x4C1CF444Bbbfd3eD6608659B61A1107aF01181e5;
 }
 
 library MAV {
