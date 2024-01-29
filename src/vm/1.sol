@@ -14,7 +14,7 @@ library BAL {
 }
 
 library FXS {
-    address public constant PLATFOR = 0x000000060e56DEfD94110C1a9497579AD7F5b254;
+    address public constant PLATFORM = 0x000000060e56DEfD94110C1a9497579AD7F5b254;
 }
 
 library BUNNI {
