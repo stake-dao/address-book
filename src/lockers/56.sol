@@ -8,6 +8,7 @@ library CAKE {
     address public constant DEPOSITOR = 0x32ee46755AE81ce917392ed1fB21f74a8104515B;
     address public constant GAUGE = 0xE2496134149e6CD3f3A577C2B08A6f54fC23e6e4;
     address public constant ACCUMULATOR = 0xAA14AD0AD8B48406Baf2473692901e47430414F5;
+    address public constant EXECUTOR = 0x74B7639503bb632FfE86382af7C5a3121a41613a;
 }
 
 library MAV {

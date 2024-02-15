@@ -1,6 +1,10 @@
 // SPDX-License-Identifier: AGPL-3.0-only
 pragma solidity >=0.6.0;
 
+library Balancer {
+    address public constant HELPER = 0x5aDDCCa35b7A0D07C74063c48700C8590E87864E;
+}
+
 library Curve {
     address public constant CRV = 0xD533a949740bb3306d119CC777fa900bA034cd52;
     address public constant VECRV = 0x5f3b5DfEb7B28CDbD7FAba78963EE202a494e2A2;
