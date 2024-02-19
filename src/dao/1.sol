@@ -9,6 +9,7 @@ library DAO {
     address public constant VEBOOST = 0x47B3262C96BB55A8D2E4F8E3Fed29D2eAB6dB6e9;
     address public constant FEE_DISTRIBUTOR = 0x29f3dd38dB24d3935CF1bf841e6b2B461A3E5D92;
     address public constant PROXY_ADMIN = 0xfE612c237A81527a86f2Cac1FD19939CF4F91B9B;
+    address public constant SMART_WALLET_CHECKER = 0x37E8386602d9EBEa2c56dd11d8E142290595f1b5;
 
     /// SDT Distribution.
     address public constant LOCKER_SDT_DISTRIBUTOR = 0x8Dc551B4f5203b51b5366578F42060666D42AB5E;
@@ -25,7 +26,7 @@ library DAO {
     address public constant MAIN_DEPLOYER = 0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62;
     address public constant GOVERNANCE = 0xF930EBBd05eF8b25B1797b9b2109DDC9B0d43063;
 
-    // Automation 
+    // Automation
     address public constant ALL_MIGHT = 0x0000000a3Fc396B89e4c11841B39D9dff85a5D05;
     address public constant BOTMARKET = 0xADfBFd06633eB92fc9b58b3152Fe92B0A24eB1FF;
 }

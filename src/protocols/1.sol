@@ -1,6 +1,12 @@
 // SPDX-License-Identifier: AGPL-3.0-only
 pragma solidity >=0.6.0;
 
+library Angle {
+    address public constant ANGLE = 0x31429d1856aD1377A8A0079410B297e1a9e214c2;
+    address public constant SAN_USDC_EUR = 0x9C215206Da4bf108aE5aEEf9dA7caD3352A36Dad;
+    address public constant SAN_DAI_EUR = 0x7B8E89b0cE7BAC2cfEC92A371Da899eA8CBdb450;
+}
+
 library Balancer {
     address public constant HELPER = 0x5aDDCCa35b7A0D07C74063c48700C8590E87864E;
 }
