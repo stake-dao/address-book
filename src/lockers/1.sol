@@ -5,12 +5,12 @@ library CRV {
     address public constant TOKEN = 0xD533a949740bb3306d119CC777fa900bA034cd52;
     address public constant SDTOKEN = 0xD1b5651E55D4CeeD36251c61c50C889B36F6abB5;
     address public constant LOCKER = 0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6;
-    address public constant DEPOSITOR = 0xc1e3Ca8A3921719bE0aE3690A0e036feB4f69191;
+    address public constant DEPOSITOR = 0x88C88Aa6a9cedc2aff9b4cA6820292F39cc64026;
     address public constant GAUGE = 0x7f50786A0b15723D741727882ee99a0BF34e3466;
     address public constant ACCUMULATOR = 0xa44bFD194Fd7185ebecEcE4F7fA87a47DaA01c6A;
     address public constant VOTER = 0x20b22019406Cf990F0569a6161cf30B8e6651dDa;
 
-    address public constant STRATEGY = 0x20F1d4Fed24073a9b9d388AfA2735Ac91f079ED6;
+    address public constant STRATEGY = 0x69D61428d089C2F35Bf6a472F540D0F82D1EA2cd;
     address public constant VE_SDT_FEE_PROXY = 0x9592Ec0605CE232A4ce873C650d2Aa01c79cb69E;
     address public constant FACTORY = 0xe7D4908e413f4769069b0837c84A5cbC7E4CC124;
 }

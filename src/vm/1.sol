@@ -20,3 +20,15 @@ library FXS {
 library BUNNI {
     address public constant PLATFORM = 0x000000071a273073c824E2a8B0192963e0eEA68b;
 }
+
+library FXN {
+    address public constant PLATFORM = 0x00000007D987c2Ea2e02B48be44EC8F92B8B06e8;
+}
+
+library CVG {
+    address public constant PLATFORM = 0x00000000d0FFb95412346C83F12D0697E4dD2255;
+}
+
+library STAKE_DAO {
+    address public constant PLATFORM = 0x000000069feD904D94e72202BDC417b19993e18D;
+}
