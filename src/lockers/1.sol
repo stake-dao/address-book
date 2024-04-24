@@ -63,7 +63,7 @@ library BPT {
 }
 
 library FXS {
-    address public constant TOKEN = 0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da;
+    address public constant TOKEN = 0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0;
     address public constant SDTOKEN = 0x402F878BDd1f5C66FdAF0fabaBcF74741B68ac36;
     address public constant LOCKER = 0xCd3a267DE09196C48bbB1d9e842D7D7645cE448f;
     address public constant DEPOSITOR = 0xFaF3740167B866b571465B063c6B3A71Ba9b6285;
