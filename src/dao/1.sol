@@ -12,9 +12,9 @@ library DAO {
     address public constant SMART_WALLET_CHECKER = 0x37E8386602d9EBEa2c56dd11d8E142290595f1b5;
 
     /// Recipient
-    address public constant TREASURY = 0x9ebbb3d59d53d6ad3fa5464f36c2e84abb7cf5c1;
-    address public constant VESDT_FEES_RECIPIENT = 0x1fe537bd59a221854a53a5b7a81585b572787fce;
-    address public constant LIQUIDITY_FEES_RECIPIENT = 0x576d7ad8eae92d9a972104aac56c15255ddbe080;
+    address public constant TREASURY = 0x9EBBb3d59d53D6aD3FA5464f36c2E84aBb7cf5c1;
+    address public constant VESDT_FEES_RECIPIENT = 0x1fE537BD59A221854a53a5B7a81585B572787fce;
+    address public constant LIQUIDITY_FEES_RECIPIENT = 0x576D7AD8eAE92D9A972104Aac56c15255dDBE080;
 
     /// SDT Distribution.
     address public constant LOCKER_SDT_DISTRIBUTOR = 0x8Dc551B4f5203b51b5366578F42060666D42AB5E;
