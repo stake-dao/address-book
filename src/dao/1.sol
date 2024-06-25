@@ -11,6 +11,11 @@ library DAO {
     address public constant PROXY_ADMIN = 0xfE612c237A81527a86f2Cac1FD19939CF4F91B9B;
     address public constant SMART_WALLET_CHECKER = 0x37E8386602d9EBEa2c56dd11d8E142290595f1b5;
 
+    /// Recipient
+    address public constant TREASURY = 0x9ebbb3d59d53d6ad3fa5464f36c2e84abb7cf5c1;
+    address public constant VESDT_FEES_RECIPIENT = 0x1fe537bd59a221854a53a5b7a81585b572787fce;
+    address public constant LIQUIDITY_FEES_RECIPIENT = 0x576d7ad8eae92d9a972104aac56c15255ddbe080;
+
     /// SDT Distribution.
     address public constant LOCKER_SDT_DISTRIBUTOR = 0x8Dc551B4f5203b51b5366578F42060666D42AB5E;
     address public constant STRATEGY_SDT_DISTRIBUTOR = 0x9C99dffC1De1AfF7E7C1F36fCdD49063A281e18C;
