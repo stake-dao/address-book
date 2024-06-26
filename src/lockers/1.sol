@@ -7,7 +7,7 @@ library CRV {
     address public constant LOCKER = 0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6;
     address public constant DEPOSITOR = 0x88C88Aa6a9cedc2aff9b4cA6820292F39cc64026;
     address public constant GAUGE = 0x7f50786A0b15723D741727882ee99a0BF34e3466;
-    address public constant ACCUMULATOR = 0x963bACb5B0dF6950814C572E3f9EA005458f6563;
+    address public constant ACCUMULATOR = 0x3e7b4DE8A29c90e0052C27bAD365bbfE2aAA7eC5;
     address public constant VOTER = 0x20b22019406Cf990F0569a6161cf30B8e6651dDa;
 
     address public constant STRATEGY = 0x69D61428d089C2F35Bf6a472F540D0F82D1EA2cd;
@@ -102,7 +102,7 @@ library PENDLE {
     address public constant LOCKER = 0xD8fa8dC5aDeC503AcC5e026a98F32Ca5C1Fa289A;
     address public constant DEPOSITOR = 0xf7F64f63ec693C6a3A79fCe4b222Bca2595cAcEf;
     address public constant GAUGE = 0x50DC9aE51f78C593d4138263da7088A973b8184E;
-    address public constant ACCUMULATOR = 0xa2c6DADf24FC30F103eE44a4ec559B47D1454c23;
+    address public constant ACCUMULATOR = 0x6A09Bdb1681Db87c71Ea2be1F0cA316A4dbcC2Cd;
 
     address public constant VOTERS_REWARDS_RECIPIENT = 0xe42a462dbF54F281F95776e663D8c942dcf94f17;
 
